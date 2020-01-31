@@ -7,9 +7,13 @@ See: http://www.fractalsciencekit.com/gallery/symicon.htm
 
 1. What is a formula that will yield a pretty graph?
 2. How many joints are there in the graph?
-3. How many axises are there that pass through the central point make the graph symmetry?
+3. How many axes are there that pass through the central point make the graph symmetry?
 4. What is the largest number of sections that will generate the graph by rotation and translation?
 5. How many joints that seems important in the graph? 
+6. Why there are six very dense points on each circle?
+7. Why are there six dense line in the graph?
+
+
 
 
 ## Questions you think can answer with some work
@@ -20,11 +24,19 @@ See: http://www.fractalsciencekit.com/gallery/symicon.htm
 3. What happens if we look at f(random-complex-point) and plot a
    million of these?
 4. What does the joints mean in the graph?
-5. Can we get formulas that can plot all joints on the graph?
-6. How can we plot a single section of the graph?
-7. Why are there six dense line in the graph?
-8. Why there seems like two concentric circle?
-9. Why there are six very dense points on each circle?
+5. Can we get formulas that can plot all joints on the graph?  
+-- By joint, we mean intersections of the "curves" that we see on the
+-- graph.
+
+
+6. How can we plot a single section of the graph? 
+-- Since the iteration of f is chaotic, it is impossible to control f.
+-- rather, we should find points, and then use matrices to shove them
+-- into a wedge of 30 degrees from the x-axis.
+
+
+7. Why there seems like two concentric circle?
+
 
 
 
@@ -35,4 +47,4 @@ See: http://www.fractalsciencekit.com/gallery/symicon.htm
    surface onto the plane. Is this the case?
 3. Is there any possibility that plotting the graph faster?
 4. How can we get an accurate graph by just have all these joints?
-5. 
+5. Do more curves appear as we increase the iterations? Or does the image stabilize?
