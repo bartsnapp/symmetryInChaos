@@ -35,7 +35,12 @@ See: http://www.fractalsciencekit.com/gallery/symicon.htm
 -- into a wedge of 30 degrees from the x-axis.
 
 
-7. Why there seems like two concentric circle?
+7. Why there seems like two concentric circle (or hexago)?
+8. While iteration is 100,000 we can see two concentric circle (or hexagon) 
+and iterate 1,000,000 we see three concentric hexagon. What about more 
+iteration? Does it means that the details of the graph is infinite?
+9. Will the graph be infinite concentric circle(or hexagon)?
+10. Can we prove Q9 with proving there are infinite joints?
 
 
 
