@@ -42,7 +42,12 @@ iteration? Does it means that the details of the graph is infinite?
 9. Will the graph be infinite concentric circle(or hexagon)?
 10. Can we prove Q9 with proving there are infinite joints?
 
-
+11. Consider a "slice" of the D_n symmetry, place points (non)randomly
+    into this slice. Consider these to be the iterative values of some
+    unknown continuous (differentiable?) function. If the behavior of
+    the iteration of the function is truly chaotic then at some point
+    two points in the iteration will be near each other, can we then
+    use calculus to interpolate where the future values could be? 
 
 
 
