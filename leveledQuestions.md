@@ -41,6 +41,13 @@ and iterate 1,000,000 we see three concentric hexagon. What about more
 iteration? Does it means that the details of the graph is infinite?
 9. Will the graph be infinite concentric circle(or hexagon)?
 10. Can we prove Q9 with proving there are infinite joints?
+11. There are some curve that just touch on other curver, is that coincident?
+Or are they not touched in smaller scale.
+12. Pick a point on the any of the curve, how can we find which curve the point 
+will move to? And finally can we find out the orders of those curves?
+13. Is there a specific point that if we set it as initial point, we can
+plot the graph fastest?
+
 
 
 
